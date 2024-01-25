@@ -31,10 +31,6 @@ class ProductManager {
     }
     return false;
   }
-
-  getProducts() {
-    return this.products;
-  }
 }
 
 export default ProductManager;
